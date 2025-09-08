@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ganpati Gandage</h1>
 <h3 align="center">A passionate frontend developer from Pune</h3>
 
+- 🔭 I’m currently working on **Building React projects to strengthen my frontend development skills.**
+
+- 🌱 I’m currently learning **React, Next.js, Tailwind CSS, and MongoDB.**
+
+- 👯 I’m looking to collaborate on **Open-source web development projects, especially MERN stack.**
+
+- 🤝 I’m looking for help with **Improving backend skills with Node.js and Express.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ganpatigandage](https://github.com/ganpatigandage)
+
+- 📝 I regularly write articles on [Comming Soon.!!](Comming Soon.!!)
+
+- 💬 Ask me about **JavaScript, React, and web development basics.**
+
+- 📫 How to reach me **ganpatigandage18@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1i2mrbeZm6ZV-wUWB_ynd5-uCcrITJJj9/view?usp=drive_link](https://drive.google.com/file/d/1i2mrbeZm6ZV-wUWB_ynd5-uCcrITJJj9/view?usp=drive_link)
+
+- ⚡ Fun fact **I enjoy solving coding problems and building interactive UIs**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gandage-ganpati-3197a922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gandage-ganpati-3197a922a" height="30" width="40" /></a>

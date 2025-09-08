@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganpatigandage](https://github.com/ganpatigandage)
 
-- 📝 I regularly write articles on (Comming Soon.!!)
+- 📝 I regularly write articles on **(Comming Soon.!!)**
 
 - 💬 Ask me about **JavaScript, React, and web development basics.**
 
